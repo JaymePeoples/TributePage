@@ -1,0 +1,35 @@
+html,body{
+	font-family: Georgia, "Times New Roman", Serif;
+	min-width: 200px;
+	color: #1a1a1a;
+}
+#main {
+	text-align: center;
+	background-color: #cce6ff;
+	padding-top: 25px;
+	padding-bottom: 50px;
+	padding-left: 30px;
+	padding-bottom: 50px;
+
+}
+#img-div {
+  margin:-5px;
+  margin-top:20px;
+  width:100%;
+}
+#image {
+  height: auto;
+  max-width: 100%;
+  margin: auto;
+  display: block;
+  border-style: solid;
+	border-width: 10px;
+	border-color: #80b3ff;
+	border-radius: 25px;
+}
+h3 {
+	text-align: center;
+}
+ul{
+	margin-left: 40%;
+}
